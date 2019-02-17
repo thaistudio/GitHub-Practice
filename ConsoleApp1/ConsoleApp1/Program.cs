@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("thai is here");
 
+            Console.WriteLine("a");
+            Console.WriteLine("b");
         }
     }
 }
