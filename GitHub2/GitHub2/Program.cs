@@ -11,6 +11,7 @@ namespace GitHub2
         static void Main(string[] args)
         {
             Console.WriteLine("a");
+            Console.WriteLine("b");
         }
     }
 }
